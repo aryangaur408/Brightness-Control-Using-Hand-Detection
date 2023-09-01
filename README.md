@@ -12,6 +12,7 @@ Control your computer screen's brightness using hand gestures with this interact
 - [Demo](#demo)
 - [Contributing](#contributing)
 - [License](#license)
+- [Contact](#contact)
 
 ## Overview
 
@@ -73,3 +74,13 @@ Contributions are welcome! If you have ideas for improvements, new features, or 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+If you have any questions or need further assistance, please don't hesitate to reach me out:
+
+- Name- [Aryan Singh Gaur](https://aryangaur.netlify.app/)
+- Email- aryangaur408@gmail.com
+- LinkedIn- https://www.linkedin.com/in/aryan-singh-gaur-91a539237
+
+Happy coding!
